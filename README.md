@@ -23,4 +23,3 @@ Source	:  	https://www.rekhta.org/
 python3 setup.py install
 ```
 
-```
