@@ -25,10 +25,13 @@ if hindi == '' or urdu == '' or english == '':
 	urdu = "Not found"
 	english = "Not found"
 
-print('''
+console = '''
 Hindi   :	%s
 Urdu    :	%s
 Meaning :	%s
 Source	:  	%s
 ===============================================================
-	'''%(hindi, urdu, english, source))
+'''%(hindi, urdu, english, source)
+
+def main():
+	print(console)
