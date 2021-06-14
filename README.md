@@ -1,2 +1,5 @@
 # cliurdu
-An urdu dictionary on cli
+
+An urdu dictionary utility on cli.
+
+`This repository is made for the purpose of personal use`
